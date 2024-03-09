@@ -27,6 +27,9 @@ javascript:(function() {
 
 ```
 
+- Or Install [Tampermonkey](https://www.tampermonkey.net/l) To Auto Bypass And Install This [Script](https://raw.githubusercontent.com/Knuxy92/Fluxus-Bypass/main/Tampermonkey%20Fluxus%20Bypass.js)
+
+
 - Wait For Bypass 1-2s To Next Page
 
 [![My Bio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.knuxy92.com/My%20Bio/index.html)
