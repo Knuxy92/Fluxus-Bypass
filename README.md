@@ -1,5 +1,5 @@
 
-# Fluxus Bypass Key
+# 🚀 Fluxus Bypass Key Made By Knuxy92
 
 Open Debug Menu ( F12 )
 - Use This Command or javascript: Command
@@ -28,3 +28,5 @@ javascript:(function() {
 ```
 
 - Wait For Bypass 1-2s To Next Page
+
+[![My Bio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.knuxy92.com/My%20Bio/index.html)
